@@ -1,4 +1,4 @@
-<img align="center" alt="Hernane-Photoshop" height="130" width="140" src="https://user-images.githubusercontent.com/88516429/185773964-1c4adbaf-8d43-4c48-a3af-cb7451157dfd.png"> Repositório central das disciplinas que cursei no curso de Engenharia de Computação na PUC Minas.
+<img align="center" alt="Hernane-Photoshop" height="130" width="140" src="https://user-images.githubusercontent.com/88516429/185773964-1c4adbaf-8d43-4c48-a3af-cb7451157dfd.png"> Repositório central das disciplinas que cursei no curso de Engenharia de Computação.
 <br>
 
 ## 1º Período

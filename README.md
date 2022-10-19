@@ -2,26 +2,26 @@
 <br>
 
 ## 1º Período
-* [Algoritmos e Estruturas de Dados I](https://github.com/hernanevelozo)
-    <br>Professor: Sandro Jerônimo de Almeida
+* [Algoritmos e Estruturas de Dados I](https://github.com/hernanevelozo/AEDs-I)
+    <br>Professor: Dr. Sandro Jerônimo de Almeida
 * [Laboratório de Introdução à Engenharia de Computação](https://github.com/hernanvelozo)
-<br>Professor: Romanelli Lodron Zuim
+<br>Professor: Dr. Romanelli Lodron Zuim
 * [Introdução aos Sistemas Inteligentes](https://github.com/hernanvelozo)
-<br>Professor: Sandro Jerônimo de Almeida
+<br>Professor: Dr. Sandro Jerônimo de Almeida
 
 ## 2º Período 
-* [Algoritmos e Estruturas de Dados II ](https://github.com//hernanvelozo)
-<br>Professor: Kléber Jacques Ferreira de Souza
+* [Algoritmos e Estruturas de Dados II ](https://github.com/hernanevelozo/AEDs-II)
+<br>Professor: Dr. Kléber Jacques Ferreira de Souza
 * [Arquitetura de Computadores I](https://github.com/hernanvelozo)
-<br>Professor: Júlio César Dillinger Conway
+<br>Professor: Dr. Júlio César Dillinger Conway
 * [Desenvolvimento de Interfaces WEB](https://github.com/hernanvelozo)
 <br>Professor: Rommel Carneiro
 
 ## 3º Período
-* [Algoritmos e Estruturas de Dados III](https://github.com/hernanvelozo)
+* [Algoritmos e Estruturas de Dados III](https://github.com/hernanevelozo/AEDs-III)
 <br>Professor: Felipe Augusto Lara Soares 
 * [Arquitetura de Computadores II](https://github.com/hernanevelozo/PMG-AC2)
-<br>Professor: Romanelli Lodron Zuim
+<br>Professor: Dr. Romanelli Lodron Zuim
 * [Banco de Dados](https://github.com/hernanvelozo)
 <br>Professor: Claudiney Vander Ramos
 
@@ -29,14 +29,14 @@
 * [Laboratório de Desenvolvimento para Dispositivo Móveis](https://github.com/hernanvelozo)
 <br>Professor: Ilo Amy Saldanha Rivero
 * [Linguagens de Programação](https://github.com/hernanvelozo)
-<br>Professor: Marco Rodrigo Costa
+<br>Professor: Dr. Marco Rodrigo Costa
 * [Física I: Mecânica](https://github.com/hernanvelozo)
-<br>Professor: Flavio de Jesus Resende 
+<br>Professor: Dr. Flavio de Jesus Resende 
 * [Laboratório de Física I](https://github.com/hernanvelozo)
 <br>Professor: Juniara Lopes Versieux
 * [Estatística e Probabilidade](https://github.com/hernanvelozo)
-<br>Professor: Otaviano Francisco Neves
+<br>Professor: Dr. Otaviano Francisco Neves
 * [Fundamentos de Geoprocessamento](https://github.com/hernanvelozo)
-<br>Professor: Jorge Batista de Souza
+<br>Professor: Dr. Jorge Batista de Souza
 
 ### O uso do conteúdo desse repositório é livre desde que seja dados os devidos créditos.

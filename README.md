@@ -1,42 +1,93 @@
 <img align="center" alt="Hernane-Photoshop" height="130" width="140" src="https://user-images.githubusercontent.com/88516429/185773964-1c4adbaf-8d43-4c48-a3af-cb7451157dfd.png"> Repositório central das disciplinas que cursei no curso de Engenharia de Computação.
 <br>
 
-## 1º Período
-* [Algoritmos e Estruturas de Dados I](https://github.com/hernanevelozo/AEDs-I)
-    <br>Professor: Dr. Sandro Jerônimo de Almeida
-* [Laboratório de Introdução à Engenharia de Computação](https://github.com/hernanvelozo)
-<br>Professor: Dr. Romanelli Lodron Zuim
-* [Introdução aos Sistemas Inteligentes](https://github.com/hernanvelozo)
-<br>Professor: Dr. Sandro Jerônimo de Almeida
+# Engenharia de Computação - PUC Minas
+O curso de [Engenharia de Computação da PUC Minas](https://www.pucminas.br/campus/coracao-eucaristico/ensino/graduacao/Paginas/Engenharia-da-Computacao.aspx?moda=2&curso=202&local=ab23480c-5f60-4752-b990-1ac1cf9b8cf5) oferece uma formação abrangente e aprofundada, preparando engenheiros para projetar e desenvolver soluções tecnológicas para problemas complexos. Com uma combinação de aulas teóricas e práticas, os alunos adquirem habilidades essenciais na construção de software e dispositivos modernos e inteligentes, como impressoras 3D, aplicativos para smartphones, robôs, drones e placas gráficas.
 
-## 2º Período 
-* [Algoritmos e Estruturas de Dados II ](https://github.com/hernanevelozo/AEDs-II)
-<br>Professor: Dr. Kléber Jacques Ferreira de Souza
-* [Arquitetura de Computadores I](https://github.com/hernanvelozo)
-<br>Professor: Dr. Júlio César Dillinger Conway
-* [Desenvolvimento de Interfaces WEB](https://github.com/hernanvelozo)
-<br>Professor: Rommel Carneiro
+## Estrutura do Curso
+O curso é dividido em dois ciclos:
 
-## 3º Período
-* [Algoritmos e Estruturas de Dados III](https://github.com/hernanevelozo/AEDs-III)
-<br>Professor: Felipe Augusto Lara Soares 
-* [Arquitetura de Computadores II](https://github.com/hernanevelozo/PMG-AC2)
-<br>Professor: Dr. Romanelli Lodron Zuim
-* [Banco de Dados](https://github.com/hernanvelozo)
-<br>Professor: Claudiney Vander Ramos
+- **Ciclo Essencial (1° ao 4° período):** Focado na base de engenharia e computação, com disciplinas como algoritmos, matemática, física, programação, arquitetura de computadores, internet das coisas (IoT), bancos de dados e desenvolvimento de aplicações móveis. Este ciclo proporciona as competências fundamentais para a inserção no mercado de trabalho e o desenvolvimento de soft skills.
 
-## 4º Período 
-* [Laboratório de Desenvolvimento para Dispositivo Móveis](https://github.com/hernanvelozo)
-<br>Professor: Ilo Amy Saldanha Rivero
-* [Linguagens de Programação](https://github.com/hernanvelozo)
-<br>Professor: Dr. Marco Rodrigo Costa
-* [Física I: Mecânica](https://github.com/hernanvelozo)
-<br>Professor: Dr. Flavio de Jesus Resende 
-* [Laboratório de Física I](https://github.com/hernanvelozo)
-<br>Professor: Juniara Lopes Versieux
-* [Estatística e Probabilidade](https://github.com/hernanvelozo)
-<br>Professor: Dr. Otaviano Francisco Neves
-* [Fundamentos de Geoprocessamento](https://github.com/hernanvelozo)
-<br>Professor: Dr. Jorge Batista de Souza
+- **Ciclo Avançado (5° ao 10° período):** Envolve o aprofundamento em áreas especializadas, como redes de computadores, automação, circuitos elétricos, eletrônica, robótica, ciência de dados e sistemas inteligentes. Este ciclo enfatiza os hard skills necessários para formar engenheiros capacitados a lidar com desafios complexos.
+
+## Áreas de Atuação
+Os formados no curso podem atuar em diversos setores, incluindo:
+- **Empreendedorismo:** Criação de startups e empresas de tecnologia.
+- **Desenvolvimento de Software e Hardware:** Trabalhar em empresas de tecnologia, automação e informática.
+- **Indústria:** Engenharia na biotecnologia, sistemas para aeronaves, carros autônomos e segurança cibernética.
+
+A formação oferecida capacita o profissional para atuar em projetos de alta complexidade, seja criando, inovando ou explorando novas fronteiras na computação e engenharia.
+
+Com base nisso e, sabendo que currículo ingressado é o 69202/15508, a grade atualmente cursada é:
+
+
+
+---
+
+| Período | Disciplina                                             | Pré Requisito                                                             | Co Requisito                                               | Professores                                                            | ID     |
+|---------|--------------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------|--------|
+| 1       | Algoritmos e Estruturas de Dados I                     |                                                                           |                                                            | Dr. Sandro Jerônimo de Almeida                                          | AED1   |
+| 1       | Cálculo Aplicado I                                     |                                                                           |                                                            | Dra. Magali Rezende Gouvêa Meireles                                    | CA1    |
+| 1       | Introdução à Computação                                |                                                                           |                                                            | Dr. Carlos Augusto Paiva da Silva Martins                              | IC     |
+| 1       | Introdução aos Sistemas Inteligentes                   |                                                                           |                                                            | Dr. Sandro Jerônimo de Almeida e Dr. Hugo Bastos de Paula              | ISI    |
+| 1       | Laboratório de Introdução à Engenharia de Computação   |                                                                           |                                                            | Dr. Romanelli Lodron Zuim                                               | LIEC   |
+| 2       | Algoritmos e Estruturas de Dados II                    | Algoritmos e Estruturas de Dados I                                        |                                                            | Dr. Kléber Jacques Ferreira de Souza                                   | AED2   |
+| 2       | Arquitetura de Computadores I                          | Algoritmos e Estruturas de Dados I                                        |                                                            | Dr. Júlio César Dillinger Conway                                        | AC1    |
+| 2       | Cálculo Aplicado II                                    | Cálculo Aplicado I                                                        |                                                            | Ma. Cláudia Silva Tavares                                              | CA2    |
+| 2       | Optativa I: Desenvolvimento de Interfaces Web          |                                                                           |                                                            | Me. João Caram Santos de Oliveira e Me. Rommel Carneiro                | OP1    |
+| 3       | Algoritmos e Estruturas de Dados III                   | Algoritmos e Estruturas de Dados II                                       |                                                            | Dr. Marcos Andre Silveira Kutova e Me. Felipe Augusto Lara Soares      | AED3   |
+| 3       | Bancos de Dados                                        | Algoritmos e Estruturas de Dados I                                        |                                                            | Dr. Rodrigo Baroni de Carvalho e Me. Claudiney Vander Ramos            | BD     |
+| 3       | Internet das Coisas I                                  | Arquitetura de Computadores I                                             |                                                            | Dr. Julio Cesar Dillinger Conway                                        | IOT1   |
+| 3       | Arquitetura de Computadores II                         | Arquitetura de Computadores I                                             |                                                            | Dr. Romanelli Lodron Zuim                                               | AC2    |
+| 3       | Cálculo Aplicado III                                   | Cálculo Aplicado II                                                       |                                                            | Dr. Vitor Luiz de Almeida                                              | CA3    |
+| 3       | Geometria Analítica e Álgebra Linear                   |                                                                           |                                                            | Ma. Deborah da Paixao Vasconcellos                                     | GAAL   |
+| 4       | Estatística e Probabilidade                            | Cálculo Aplicado I                                                        |                                                            | Dr. Otaviano Francisco Neves                                           | EP     |
+| 4       | Física I: Mecânica                                     | Cálculo Aplicado I (Novo Curriculo: + Gaal)                               |                                                            | Dr. Flávio de Jesus Resende                                            | FISMEC |
+| 4       | Optativa II: Fundamentos de Geoprocessamento           |                                                                           |                                                            | Dr. Jorge Batista de Souza                                             | OP2    |
+| 4       | Laboratório de Desenvolvimento Para Dispositivos Móveis| Algoritmos e Estruturas de Dados II                                       |                                                            | Me. Ilo Amy Saldanha Rivero                                            | LDDM   |
+| 4       | Laboratório de Física                                  |                                                                           | Física I: Mecânica                                          | Ma. Juniara Lopes Versieux                                             | LABFIS |
+| 4       | Linguagens de Programação                              | Algoritmos e Estruturas de Dados II                                       |                                                            | Dr. Marco Rodrigo Costa                                                | LP     |
+| 5       | Algoritmos em Grafos                                   | Algoritmos e Estruturas de Dados II                                       |                                                            | Dr. Walisson Ferreira de Carvalho                                      | AG     |
+| 5       | Arquitetura de Computadores III                        | Arquitetura de Computadores II                                            |                                                            | Dr. Henrique Cota de Freitas                                           | AC3    |
+| 5       | Ciências do Ambiente                                   |                                                                           |                                                            | Me. Eugenio Batista Leite                                              | CAMB   |
+| 5       | Gerência de Projeto de Software                        | Algoritmos e Estruturas de Dados I                                        |                                                            | Dr. Pedro Alves de Oliveira                                            | GPS    |
+| 5       | Sistemas Embarcados                                    | Internet das Coisas I / Algoritmos e Estruturas de Dados II               | Arquitetura de Computadores II                              | Dr. Mario Guimaraes Buratto                                            | SEMB   |
+| 5       | Sistemas Operacionais                                  | Algoritmos e Estruturas de Dados II / Arquitetura de Computadores II      |                                                            |                                                                        | SO     |
+| 5       | Teoria de Circuitos Elétricos                          | Física I: Mecânica                                                        |                                                            | Esp. Alexandre Rezende Guimarães                                       | TCE    |
+| 6       | Fundamentos Teóricos da Computação                     | Algoritmos em Grafos                                                      |                                                            | Dr. Mark Alang Song Junho                                              | FTC    |
+| 6       | Redes de Computadores I                                | Algoritmos em Grafos / Arquitetura de Computadores II                    |                                                            | Dr. Ricardo Carlini Sperandio                                          | RC1    |
+| 6       | Eletrônica Para Computação (Teoria e Lab)              | Teoria de Circuitos Elétricos                                             |                                                            | Dr. Julio Cesar Dillinger Conway e Paulo Jose da Costa Cunha           | EC     |
+| 6       | Tópicos (1/3) em Sistemas de Informação (Data Science) |                                                                           |                                                            | Dr. Rodrigo Richard Gomes                                              | TC1    |
+| 6       | Optativa III: Computação Gráfica                       |                                                                           |                                                            | Me. Roque Anderson Saldanha Teixeira                                   | OP3    |
+| 6       | Otimização de Sistemas                                 | Algoritmos em Grafos / Geometria Analítica e Álgebra Linear              |                                                            | Dr. Petr Iakovlevitch Ekel                                             | OS     |
+| 7       | Compiladores                                           | Fundamentos Teóricos da Computação / Arquitetura de Computadores II      |                                                            | Dr. Matheus Alcântara Souza                                            | COMP   |
+| 7       | Inteligência Artificial                                | Algoritmos em Grafos / Estatística e Probabilidade                       |                                                            | Dr. Pedro Américo Almeida Magalhães Júnior                             | IA     |
+| 7       | Projeto e Análise de Algoritmos                        | Algoritimos em Grafos                                                    |                                                            | Dr. Walisson Ferreira de Carvalho                                      | PAA    |
+| 7       | Internet das Coisa II                                  | Sistemas Embarcados / Redes de Computadores I                             | Sistemas Operacionais / Teoria de Circuitos Elétricos      | Dr. Mario Guimaraes Buratto                                            | IOT2   |
+| 7       | Redes de Computadores II                               | Redes de Computadores I                                                  |                                                            | Ma. Tamara Simoes Silva e Me. Marco Antonio da Silva Barbosa           | RC2    |
+| 7       | Sistemas Reconfiguráveis                               | Arquitetura de Computadores II                                           |                                                            | Me. Francisco Manoel Pinto Garcia                                      | SISREC |
+| 7       | Tópicos (2/3) Especiais em Computação: Text Mining     |                                                                           |                                                            | Dr. Wladmir Cardoso Brandao                                            | TCII   |
+| 8       | Processamento e Análise de Imagens                     |                                                                           | Projeto e Análise de Algoritmos                              | Me. Felipe Augusto Lima Reis                                           | PAI    |
+| 8       | Projeto Integrado de Software e Hardware               | Internet das Coisas II / Gerência de Projetos de Software                 | Projeto e Análise de Algoritmos / Inteligência Artificial   | Dr. Mario Guimaraes Buratto, Me. Ilo Amy Saldanha Rivero e Ma. Carolina Stephanie Jerônimo de Almeida | PISH   |
+| 8       | Computadores e Sociedade                               |                                                                           |                                                            | Dra. Cristina Almeida Cunha Filgueiras                                 | CS     |
+| 8       | Sistemas Dinâmicos e Controle de Processos             | Cálculo Aplicado III                                                     |                                                            | Dr. Luiz Carlos Figueiredo                                             | SDCP   |
+| 8       | Sistemas Inteligentes de Software e Hardware           | Inteligência Artificial                                                   |                                                            | Dr. Luiz Carlos Figueiredo                                             | SISH   |
+| 8       | Optativa IV: Engenharia de Software                    |                                                                           |                                                            | Dr. José Laerte Pires Xavier Júnior                                    | OP4    |
+| 9       | Computação Distribuída                                 | Redes de Computadores I                                                  |                                                            | Dra. Fátima de Lima Procópio Duarte Figueiredo                         | CD     |
+| 9       | Modelagem e Avaliação de Desempenho                    | Redes de Computadores / Estatística e Probabilidade                       |                                                            | Ma. Marta Dias Moreira Noronha                                         | MAD    |
+| 9       | Sistemas de Automação Industrial                       | Cálculo Aplicado III / Física I: Mecânica                                 | Geometria Analítica e Álgebra Linear                        | Dr. Julio Cesar Braz de Queiroz                                        | SAI    |
+| 9       | Tópicos (3/3) Especiais em Computação III              |                                                                           |                                                            | Dr. João Benedito dos Santos Junior                                    | TC3    |
+| 9       | Cultura Religiosa: Fenômeno Religioso                  |                                                                           |                                                            | Dr. Victor Rene Villavicencio Matienzo                                 | CRFR   |
+| 9       | Filosofia: Razão e Modernidade                         |                                                                           |                                                            | Dr. José Newton Tomazzoni Tavares                                      | FRM    |
+| 10      | Trabalho de Conclusão de Curso I                       | Projeto Integrado de Software e Hardware                                 |                                                            | Me. Gabriel Barbosa da Fonseca                                         | TCC1   |
+| 10      | Filosofia: Antropologia e Ética                        |                                                                           |                                                            | Dr. Roberto Marcio Starling                                            | FAE    |
+| 10      | Cultura Religiosa: Pessoa e Sociedade                  |                                                                           |                                                            | Dr. Jose Martins dos Santos Neto                                       | CRPS   |
+| 10      | Optativa V: Engenharia de IA                           |                                                                           |                                                            | Dr. Humberto Torres Marques Neto                                       | OP5    |
+| 10      | Trabalho de Conclusão de Curso II                      | Trabalho de Conclusão de Curso I                                         |                                                            | Me. Gabriel Barbosa da Fonseca                                         | TCC2   |
+
+---
+
+Essa tabela apresenta as disciplinas de cada período, juntamente com os pré-requisitos, co-requisitos, professores e identificadores das disciplinas.
 
 ### O uso do conteúdo desse repositório é livre desde que seja dados os devidos créditos.
